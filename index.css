@@ -1,0 +1,25 @@
+.hidden {
+    display: none;
+}
+.image {
+    width: 100%;
+}
+.image img {
+    width: 100%;
+}
+.btn {
+    cursor: pointer;
+    background-color: red;
+    position: absolute;
+    width: 100px;
+    left: calc(50% - 50px);
+    top: 50%;
+    display: flex;
+    justify-content: center;
+
+}
+.btn p {
+    font-family:sans-serif;
+    font-size: 24px;
+
+}
